@@ -1,0 +1,2 @@
+# FastaRand
+Randomizes FASTA sequences
